@@ -18,9 +18,8 @@ Ce projet a permis de pratiquer :
 ## 🧭 Diagramme de flux / logique de décision
 
 Voici un diagramme illustrant les possibles chemins de la chasse au trésor (exporté de draw.io) :  
-
-::contentReference[oaicite:0]{index=0}
-  
+![Treasure Island Flow](treasure.drawio.png)
+ 
 ---
 
 ## 🎯 Fonctionnalités
